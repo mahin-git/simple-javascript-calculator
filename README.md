@@ -1,4 +1,4 @@
-# 🔢 Simple Calculator (HTML, CSS, JavaScript)
+# 🔢 Simple Calculator (HTML, CSS, JavaScript.)
 
 A beginner-friendly and responsive **calculator app** built using **HTML, CSS, and JavaScript**.  
 This project is perfect for learning the basics of **web development** and practicing **DOM manipulation** with JavaScript.  
